@@ -3,6 +3,12 @@ Tunnel SSH - Diferencias entre port forwarding: Local, Remote, Dynamic
 
 https://www.zonasystem.com/2019/01/tunel-ssh-port-forwarding-local-remote-dynamic.html
 
+Ejemplos con saltos:
+https://www.howtouselinux.com/post/exploring-ssh-port-forwarding-with-examples
+
+Ejemplos con saltos y MOBA:
+https://blog.mobatek.net/post/ssh-tunnels-and-port-forwarding/
+
 ## SSH Tunnel: Local port forwarding 
 
 Reenvía un puerto local a un host remoto. Ejemplo de conexión local port forwarding de escritorio remoto RDP realizando pivoting del servidor SSH a otro equipo de la misma red interna. 
