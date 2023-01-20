@@ -3,11 +3,17 @@ Tunnel SSH - Diferencias entre port forwarding: Local, Remote, Dynamic
 
 https://www.zonasystem.com/2019/01/tunel-ssh-port-forwarding-local-remote-dynamic.html
 
+
 Ejemplos con saltos:
+
 https://www.howtouselinux.com/post/exploring-ssh-port-forwarding-with-examples
 
+
 Ejemplos con saltos y MOBA:
+
 https://blog.mobatek.net/post/ssh-tunnels-and-port-forwarding/
+
+
 
 ## SSH Tunnel: Local port forwarding 
 
